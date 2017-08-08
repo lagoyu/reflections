@@ -7,10 +7,13 @@ What value do you think it offers?
 It allows control over which files in the working directory will actually be committed.
 
 How can you use the staging area to make sure you have one commit per logical change?
-You can review the diff betwen the staging area and the last commit by using 'git diff --staged'
+You can review the diff betwen the staging area and the last commit by using 'git diff --staged'q
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? 
+Trying out a change to the way an object reacts to inputs
+Refactoring some code to make it more efficient
+How would branches help?
+They would allow an easy switch between the two branches before proceeding.
 
 How do the diagrams help you visualize the branch structure?
 
