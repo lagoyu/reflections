@@ -16,6 +16,7 @@ How would branches help?
 They would allow an easy switch between the two branches before proceeding.
 
 How do the diagrams help you visualize the branch structure?
+They show the way in which commits relate to one another and which are reachable from the current branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
