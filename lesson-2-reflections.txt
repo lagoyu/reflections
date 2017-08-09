@@ -18,8 +18,12 @@ They would allow an easy switch between the two branches before proceeding.
 How do the diagrams help you visualize the branch structure?
 They show the way in which commits relate to one another and which are reachable from the current branch.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together?
+The result is that the head of the currently checked out branch will now include the changes made in the merged branch. 
+Why do we represent it in the diagram the way we do?
+Because the two branches have now come together.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic merging will save time in many obvious instances but sometimes it finds apparent conflicts 
+which would be immediately resolved in a manual process
