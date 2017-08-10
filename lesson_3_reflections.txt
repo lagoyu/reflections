@@ -11,3 +11,7 @@ Branches are named sets of commits within a repository. Branches are used when t
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The most recently pulled state of the remote can be accessed offline if necessary and changes can be merged
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+There would need to be a way of sharing which changes each person had made or some kind of system allowing
+people to work in different areas of the files simultaneously. This could lead to things getting out of sync very easily
